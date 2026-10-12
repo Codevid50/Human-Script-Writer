@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+openai  # OpenRouter is OpenAI-compatible
